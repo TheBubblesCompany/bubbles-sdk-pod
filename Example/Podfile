@@ -1,0 +1,6 @@
+use_frameworks!
+target 'bubbles-sdk-pod_Tests' do
+  pod 'bubbles-sdk-pod', :path => '../'
+  
+  
+end
